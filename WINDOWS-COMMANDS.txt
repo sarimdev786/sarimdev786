@@ -1,0 +1,29 @@
+WINDOWS COMMANDS
+
+1. Open Command Prompt.
+
+2. Clone the actual profile repository:
+
+cd /d C:\Users\BOSS\Desktop
+git clone https://github.com/sarimdev786/sarimdev786.git sarim-profile
+cd sarim-profile
+
+3. Copy README.md and the .github folder from the extracted package into:
+C:\Users\BOSS\Desktop\sarim-profile
+
+Choose "Replace the file in the destination" when Windows asks.
+
+4. Upload the corrected files:
+
+git add README.md .github\workflows\snake.yml
+git commit -m "Fix GitHub stats and contribution animations"
+git push origin main
+
+5. Open the repository in GitHub:
+https://github.com/sarimdev786/sarimdev786
+
+6. Open:
+Actions > Generate Contribution Snake > Run workflow
+
+7. Wait for the green check mark, then refresh:
+https://github.com/sarimdev786
