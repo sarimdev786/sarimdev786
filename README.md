@@ -32,7 +32,7 @@
   frontend: ["React.js", "Next.js", "TypeScript"],
   backend: ["Node.js", "Express.js", "REST APIs"],
   mobile: ["React Native", "Expo", "Flutter"],
-  businessSystems: ["Odoo", "ERP", "CRM", "POS"],
+  businessSystems: ["ERP", "CRM", "POS"],
   focus: ["Clean Code", "Scalability", "Business Value"]
 };</code></pre>
 
@@ -88,8 +88,8 @@ Android and iOS applications with API integration, authentication, Firebase, and
 <td width="33%" align="center" valign="top">
 
 <h3>🏢 BUSINESS LAB</h3>
-<strong>ERP &amp; Automation</strong><br /><br />
-Odoo · CRM · POS · Inventory<br /><br />
+<strong>ERP &amp; Automation</strong><br /><br /> 
+CRM · POS · Inventory<br /><br />
 Custom modules, business workflows, access control, reports, and operational automation.
 
 </td>
@@ -262,7 +262,7 @@ This removes the broken github-readme-stats and top-languages links.
 
 ## 🤝 Open to Collaboration
 
-I am open to collaborating on **MERN and Next.js products, mobile applications, backend architecture, API integrations, dashboards, SaaS platforms, and ERP/Odoo systems**.
+I am open to collaborating on **MERN and Next.js products, mobile applications, backend architecture, API integrations, dashboards, SaaS platforms, and ERP systems**.
 
 ## 📫 Connect With Me
 
